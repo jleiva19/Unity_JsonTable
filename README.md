@@ -16,7 +16,7 @@ This project consists of a table on the main scene, this one gets filled with da
 
 ## Stuff that I'm aware of
 
-- If the order of the column headers is changed it will probably mix the data (priority, fixing as soon as I can).
+- ~~If the order of the column headers is changed it will probably mix the data (priority, fixing as soon as I can)~~. This has been disproven, they can be switched with no problem.
 
 - Right now the file must be, and can only be on StreamingAssets under the name of `JsonChallenge.json`, it would be nice leaving a public field on the inspector or during runtime so the file can be changed during runtime, also allowing more than one file.
 

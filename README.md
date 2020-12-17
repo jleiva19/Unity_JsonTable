@@ -20,6 +20,8 @@ This project consists of a table on the main scene, this one gets filled with da
 
 - Right now the file must be, and can only be on StreamingAssets under the name of `JsonChallenge.json`, it would be nice leaving a public field on the inspector or during runtime so the file can be changed during runtime, also allowing more than one file.
 
+- There might be some repeated code, need to check that to make it more clean and human friendly.
+
   ------
 
   
